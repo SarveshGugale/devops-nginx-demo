@@ -4,7 +4,7 @@ FROM nginx
 
 # Cooker
 
-LABEL maintainer="sarveshgugale7@gmail.com"
+LABEL maintainer="sarveshgugale09@gmail.com"
 
 WORKDIR /app
 
