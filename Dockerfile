@@ -4,6 +4,8 @@ FROM nginx
 
 # Cooker
 
+LABEL maintainer="sarveshgugale7@gmail.com"
+
 WORKDIR /app
 
 # ingredients
